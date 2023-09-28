@@ -1,5 +1,5 @@
 # ToDoApp-Vue.js
 
-# npm insatll
+npm insatll
 
-# npm run dev
+npm run dev
